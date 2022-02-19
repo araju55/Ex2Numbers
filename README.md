@@ -1,2 +1,2 @@
-# Ex2Numbers
-Ex2Numbers program in Java NetBeans
+# Ex5Numbers
+Ex5Numbers program in Java NetBeans
